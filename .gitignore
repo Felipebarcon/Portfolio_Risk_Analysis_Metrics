@@ -5,7 +5,9 @@ out
 gen
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-
+.venv1
+.virtual_documents
+anaconda_projects
 # IPython
 profile_default/
 ipython_config.py
